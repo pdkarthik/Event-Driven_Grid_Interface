@@ -1,8 +1,8 @@
-    📌 MakeRoot Assignment
+   # 📌 Event-Driven Grid Interface
 
 🌐 Live: 🔗 https://make-root-task.vercel.app
 
-The MakeRoot-assignment project is a web-based interactive color assignment game called "Color Button Assignment".
+> **A dynamic, event-driven UI component built with React. This project demonstrates core frontend architecture concepts, specifically focusing on complex state management, sequential user input handling, and dynamic visual feedback loops.**
 
 📖 Project Purpose
 
